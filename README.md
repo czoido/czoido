@@ -8,6 +8,7 @@
 - 🎓 &nbsp;PhD. in Industrial Engineering at **[Polytechnic University of Madrid]**
 - 👨‍🍳 &nbsp;CEO and Co-founder of **[The Big Banh]** (2015-2019)
 - 📫 &nbsp;Connect with me on **[LinkedIn]**
+- 📝 &nbsp;Check out my **[Blog]**
 
 <!-- links -->
 
@@ -16,3 +17,4 @@
 [Polytechnic University of Madrid]: https://www.upm.es/ "Polytechnic University of Madrid Home"
 [The Big Banh]: http://www.thebigbanh.com/ "The Big Banh"
 [LinkedIn]: https://www.linkedin.com/in/czoido/ "Carlos Zoido LinkedIn"
+[Blog]: https://czoido.github.io/ "Carlos Zoido Blog"
