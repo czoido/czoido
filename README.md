@@ -5,7 +5,7 @@
 </a>
 
 - 🔭 &nbsp;Currently working as a **[Conan.io]** developer at **[JFrog]**
-- 🎓 &nbsp;PhD. in Industrial Engineering at **[Polytechnic University of Madrid]**
+- 🎓 &nbsp;Ph.D. in Industrial Engineering at **[Polytechnic University of Madrid]**
 - 👨‍🍳 &nbsp;CEO and Co-founder of **[The Big Banh]** (2015-2019)
 - 📫 &nbsp;Connect with me on **[LinkedIn]**
 - 📝 &nbsp;Check out my **[Blog]**
