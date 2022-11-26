@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=czoido&show_icons=true&bg_color=FDFEFE&text_color=34495E&title_color=1B4F72&icon_color=2E86C1&include_all_commits=true&count_private=true" alt="czoido" align="right" />
 </a>
 
-- 🔭 &nbsp;Currently working as a **[Conan.io]** developer at **[JFrog]**
+- 🔭 &nbsp;Currently working as a **[Conan.io]** Senior Software Engineer at **[JFrog]**
 - 🎓 &nbsp;Ph.D. in Industrial Engineering at **[Polytechnic University of Madrid]**
 - 👨‍🍳 &nbsp;CEO and Co-founder of **[The Big Banh]** (2015-2019)
 - 📫 &nbsp;Connect with me on **[LinkedIn]**
