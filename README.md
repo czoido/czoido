@@ -1,7 +1,7 @@
 <h1 align="left"> 👋 Hi there! I'm Carlos</h1>
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=czoido&show_icons=true&bg_color=FDFEFE&text_color=34495E&title_color=1B4F72&icon_color=2E86C1&include_all_commits=true&count_private=true" alt="czoido" align="right" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=czoido&theme=default" alt="czoido" align="right" />
 </a>
 
 - 🔭 &nbsp;Currently working as a **[Conan.io]** Senior Software Engineer at **[JFrog]**
