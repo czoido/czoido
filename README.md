@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp;Currently working as a **[Conan.io]** Senior Software Engineer at **[JFrog]**
 - 🎓 &nbsp;Ph.D. in Industrial Engineering at **[Polytechnic University of Madrid]**
-- 👨‍🍳 &nbsp;CEO and Co-founder of **[The Big Banh]** (2015-2019)
+- 👨‍🍳 &nbsp;Co-founder of **[The Big Banh]** (2015-2019)
 - 📫 &nbsp;Connect with me on **[LinkedIn]**
 - 📝 &nbsp;Check out my **[Blog]**
 
