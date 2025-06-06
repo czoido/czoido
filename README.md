@@ -4,7 +4,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=czoido&theme=default" alt="czoido" align="right" />
 </a>
 
-- 🔭 &nbsp;Currently working as a **[Conan.io]** Senior Software Engineer at **[JFrog]**
+- 🔭 &nbsp;Currently working as a **[Conan.io]** R&D Team Lead at **[JFrog]**
 - 🎓 &nbsp;Ph.D. in Industrial Engineering at **[Polytechnic University of Madrid]**
 - 👨‍🍳 &nbsp;Co-founder of **[The Big Banh]** (2015-2019)
 - 📫 &nbsp;Connect with me on **[LinkedIn]**
